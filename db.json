@@ -81,9 +81,13 @@
     {
 	 "merit": 25,
 	  "user": {"id": 1, "fname": "Basic", "mname": "B.", "lname": "Basic", "role": { "id": 1, "name": "Basic"}, "status": { "id": 1, "name": "Ok"} },
-	 "ranks": [ { "id": 1, "name": "Beginner", "topic": "Java", "relativeWeight": 0, "meritThreshold": 0}, 
-				{ "id": 1, "name": "Beginner", "topic": "Java", "relativeWeight": 0, "meritThreshold": 0} 
-			  ]
+	 "ranks": { "id": 1, "name": "Beginner", "topic": "Java", "relativeWeight": 0, "meritThreshold": 0}
+    },
+	{
+	 "merit": 55,
+	  "user": {"id": 1, "fname": "Basic", "mname": "B.", "lname": "Basic", "role": { "id": 1, "name": "Basic"}, "status": { "id": 1, "name": "Ok"} },
+	 "ranks": { "id": 4, "name": "Beginner", "topic": "SQL", "relativeWeight": 0, "meritThreshold": 0}
     }
   ]
 }
+
