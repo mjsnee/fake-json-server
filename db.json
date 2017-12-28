@@ -1,23 +1,25 @@
-[
+{
+  "ranks": [
   {
-               id: 1,
-             name: "Beginner",
-            topic: "Java",
-   relativeWeight: 0,
-   meritThreshold: 0
+               "id": 1,
+             "name": "Beginner",
+            "topic": "Java",
+   "relativeWeight": 0,
+   "meritThreshold": 0
   },
-  {
-               id: 2,
-             name: "Intermediate",
-            topic: "Java",
-   relativeWeight: 1,
-   meritThreshold: 100
+    {
+               "id": 2,
+             "name": "Intermediate",
+            "topic": "Java",
+   "relativeWeight": 1,
+   "meritThreshold": 100
   },
-  {
-               id: 3,
-             name: "Advanced",
-            topic: "Java",
-   relativeWeight: 2,
-   meritThreshold: 500
+    {
+               "id": 3,
+             "name": "Advanced",
+            "topic": "Java",
+   "relativeWeight": 2,
+   "meritThreshold": 200
   },
-]
+  ]
+}
