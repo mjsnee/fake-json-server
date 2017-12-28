@@ -1,4 +1,38 @@
 {
+  "user": [
+  {
+               "id": 1,
+            "fname": "Basic",
+		    "mname": "B.",
+			"lname": "Basic",
+             "role": { "id": 1, "name": "Basic"},
+           "status": { "id": 1, "name": "Ok"}
+  },
+  {
+               "id": 2,
+            "fname": "Advanced",
+		    "mname": "A.",
+			"lname": "Advanced",
+             "role": { "id": 2, "name": "Advanced"},
+           "status": { "id": 1, "name": "Ok"}
+  },
+  {
+               "id": 3,
+            "fname": "Certified",
+		    "mname": "C.",
+			"lname": "Certified",
+             "role": { "id": 3, "name": "Certified"},
+           "status": { "id": 1, "name": "Ok"}
+  },
+  {
+               "id": 4,
+            "fname": "Admin",
+		    "mname": "A.",
+			"lname": "Admin",
+             "role": { "id": 4, "name": "Admin"},
+           "status": { "id": 1, "name": "Ok"}
+  }
+  ],
   "ranks": [
   {
                "id": 1,
