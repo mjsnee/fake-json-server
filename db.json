@@ -54,6 +54,27 @@
             "topic": "Java",
    "relativeWeight": 2,
    "meritThreshold": 200
+  },
+  {
+               "id": 4,
+             "name": "Beginner",
+            "topic": "SQL",
+   "relativeWeight": 0,
+   "meritThreshold": 0
+  },
+    {
+               "id": 5,
+             "name": "Intermediate",
+            "topic": "SQL",
+   "relativeWeight": 1,
+   "meritThreshold": 100
+  },
+    {
+               "id": 6,
+             "name": "Advanced",
+            "topic": "SQL",
+   "relativeWeight": 2,
+   "meritThreshold": 200
   }
   ]
 }
